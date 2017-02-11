@@ -1,0 +1,332 @@
+不等式/n @表达式/n @表达式/n 表示/v 平面/n 区域/n @实体/n 区域/n @实体/n 坐标/n 原点/n 距离/n 大于/v @数量/n 概率/n &&none
+采用/v 分层/v 方法/n 调查/vn 教师/nnt 身体状况/n 抽取/v 样本/n 青年/n 教师有/nt @数量/n 样本/n 老年/n 教师/nnt 人数/n &&StratifiedSampleFormula_1
+某地高中/nt 男生/n 抽取/v @数量/n 同学/n 体重/n @数对/n @数对/n @数对/n 3组/nt 男生/n 分层抽样/gm 方法/n 选取/v @数量/n 参加/v 活动/vn @数量/n 人选/n 队长/nnt 身高/n 不在/v 概率/n &&@P=1-C(u1,u2)/C(u3,u4)
+@数量/n 相邻/vi 概率/n &&PRLocalLimitFormula
+@实体/n 学校/nis @数量/n @实体/n @数量/n @实体/n @数量/n 总体/n 抽取/v @数量/n 使用/v 分层抽样/gm @实体/n 学校/nis 抽取/v 人数/n &&StratifiedSampleFormula_3
+@数量/n @数量/n @数量/n 学生/nnt 任选/v @数量/n @数量/n 名都/n 女同学/nz 概率/n 等于/v &&PRSpecialNumFormula_05
+单位有/nt @数量/n 职工/nnt 采用/v 系统抽样/gm 方法/n 抽取/v @数量/n 问卷调查/n @数量/n @集合/n 编号/n 抽取/v @数量/n 人中/n 编号/n 落入/v 区间/n @数对/n 人数/n &&SystemSampleFormula
+工厂/nis @数量/n 车间/n 生产/vn 产品/n 数量/n 分别为/v @数量/n @数量/n @数量/n 了解/v 产品质量/nz 是否/v 存在/v 显著/ad 差异/n 分层抽样/gm 方法/n 抽取/v 容量/n @实体/n 样本/n 进行/vn 调查/vn 车间/n 产品/n 抽取/v @数量/n @表达式/n &&StratifiedSampleFormula_5
+@数量/n 同学/n @集合/n 周日/t 任选/v 参加/v 公益活动/nz @集合/n 周日/t 同学/n 参加/v 公益活动/nz 概率/n &&PRDistributeFormula_07
+地区/n 空气质量/nz 监测/vn 资料/n 表明/v 空气质量/nz 概率/n @集合/n 连续/a 概率/n @集合/n 已知/nz 空气质量/nz 空气质量/nz 概率/n &&@P=u1/u2
+样本数据/gb @集合/n 标准差/gm @集合/n 数据/n @集合/n 标准差/gm &&@X=u1^2*u2
+投篮/vn 测试/vn @数量/n 至少/d 投中/v @数量/n 测试/vn 已知/nz 同学/n 投篮/vn 投中/v 概率/n @集合/n 投篮/vn 是否/v 投中/v 相互/d 独立/a 同学/n 测试/vn 概率/n &&@P=∑(k=u2>u1)C(u1,k)*(1/2)^k*(1/2)^(u1-k)
+马拉松/n 比赛/vn @数量/n 运动员/nnt 成绩/n 单位/n 茎叶/n 运动员/nnt 成绩/n 编为/v @数量/n @数量/n 系统抽样/gm 方法/n 从中/d 抽取/v @数量/n 成绩/n 区间/n @数对/n 运动员/nnt 人数/n &&SystemSampleFormula
+已知/nz @数量/n 产品中有/nt @数量/n 次品/n 合格品/n @数量/n 件产品/n 任取/v @数量/n 件次/n 概率/n &&PRExtractContainSubsetFormula_01
+我国/n 古代/t 数学/n 名著/n @数量/n 算术/n 谷粒/n 粮仓/n 开仓/nz 送来/v @数量/n 米内/nr 抽样/vn 米一/nr @数量/n @数量/n 米内/nr 谷约为/nr &&StratifiedSampleFormula_1
+马拉松/n 比赛/vn @数量/n 运动员/nnt 成绩/n 单位/n 茎叶/n 运动员/nnt 成绩/n 编为/v @数量/n 系统抽样/gm 方法/n 从中/d @数量/n 成绩/n 区间/n @数对/n 运动/vn 人数/n &&SystemSampleFormula
+高一/n 年级/n @数量/n 学生/nnt 女生/n @数量/n 男女比例/nz 分层抽样/gm 方法/n 年级/n 学生/nnt 抽取/v 容量/n @数量/n 样本/n 抽取/v 男生/n 人数/n &&StratifiedSampleFormula_1
+袋中/s 共有/v @数量/n 颜色/n 完全相同/nz @数量/n 白球/nr @数量/n 红球/nz 袋中/s 任取/v @数量/n 所取/v @数量/n 球中有/nt @数量/n 白球/nr @数量/n 红球/nz 概率/n &&PRExtractAllSubsetFormula_01
+高校/n @数量/n 专业/n @集合/n 学生/nnt 了解/v 学生/nnt 就业/vn 倾向/n 分层抽样/gm 方法/n @数量/n 专业/n 抽取/v @数量/n 学生/nnt 进行/vn 调查/vn 专业/n 抽取/v 的学生/nt 人数/n &&StratifiedSampleFormula_5
+乙等/nz @数量/n 学生/nnt 选出/v @数量/n 选中/v 概率/n &&PRExistElementFormuale
+了解/v @数量/n 学生/nnt 学习/v 情况/n 采用/v 系统抽样/gm 方法/n 从中/d 抽取/v 容量/n @数量/n 样本/n 分段/vd 间隔/n &&SystemSampleFormula
+@实体/n 字母/n 任取/v 不同/a 字母/n 取到/v 字母/n @实体/n 概率/n &&PRExistElementFormuale
+@数量/n 产品中有/nt @数量/n 正品/n @数量/n 次品/n 从中/d 任取/v @数量/n 取到/v @数量/n 件次/n 概率/n &&PRExtractContainSubsetFormula_01
+强化/v 安全意识/nz 商场/nis 未来/t 连续/a @数量/n 选择/v @数量/n 进行/vn 紧急/a 疏散/v 演练/vn 选择/v @数量/n 连续/a @数量/n 概率/n &&PRBindFormula_01
+两套设备生产的同类型产品/ntcf @数量/n 采用/v 分层抽样/gm 方法/n 从中/d 抽取/v 容量/n @数量/n 样本/n 进行/vn 质量/n 检测/vn 样本/n @数量/n 件产品/n 设备/n 生产/vn 设备生产的产品/nt 总数/n &&StratifiedSampleFormula_3
+地区有小学/nt @数量/n 中学/nis @数量/n 大学/nis @数量/n 采用/v 分层抽样/gm 方法/n 学校/nis 抽取/v @数量/n 所学校/nt 学生/nnt 进行/vn 视力/n 应从/v 小学/nis 抽取/v 所学校/nt &&StratifiedSampleFormula_3
+地区有小学/nt @数量/n 中学/nis @数量/n 大学/nis @数量/n 采用/v 分层抽样/gm 方法/n 学校/nis 抽取/v @数量/n 所学校/nt 学生/nnt 进行/vn 视力/n 中学/nis 抽取/v 所学校/nt &&StratifiedSampleFormula_3
+@数量/n 同学/n 参加/v 跳高/vn 跳远/vn 铅球/n 项目/n 比赛/vn 选择/v 项目/n 仅有/nz 选择/v 项目/n 完全相同/nz 概率/n &&PRReplacementExtractFormula_01
+袋中/s 共有/v @数量/n 颜色/n 完全相同/nz @数量/n 红球/nz @数量/n 白球/nr @数量/n 黑球/nz 袋中/s 任取/v 颜色/n 概率/n 等于/v &&PRExtractContainSubsetFormula_01
+一支田径队有/nt 男女/n 运动员/nnt @数量/n 运动员/nnt @数量/n 男女比例/nz 分层抽样/gm 方法/n 运动员/nnt 抽出/v 容量/n @数量/n 样本/n 抽取/v 运动员/nnt 人数/n &&StratifiedSampleFormula_6
+一支田径运动队/nt 运动员/nnt @数量/n 运动员/nnt @数量/n 现用/n 分层抽样/gm 方法/n 抽取/v 抽取/v 运动员/nnt @数量/n 抽取/v 运动员/nnt &&StratifiedSampleFormula_1
+@数量/n 同学/n 参加/v 跳高/vn 跳远/vn 铅球/n 项目/n 比赛/vn 选择/v 项目/n 仅有/nz 同学/n 选择/v 项目/n 相同/a 概率/n &&PRChoiceSameFormula
+年级/n 男生/n @数量/n 女生/n @数量/n 分层抽样/gm 方法/n 年级/n 全体学生/n 抽取/v 容量/n @数量/n 样本/n 样本/n 男生/n 人数/n &&StratifiedSampleFormula_3
+@数量/n 兴趣小组/nz 同学/n 参加/v 小组/nis 同学/n 参加/v 小组/nis 可能性/n 相同/a 同学/n 参加/v 兴趣小组/nz 概率/n &&PRChoiceSameFormula
+中学有/nt 高中生/nnd @数量/n 初中生/nnd @数量/n 了解/v 学生/nnt 学习/v 情况/n 分层抽样/gm 方法/n 学生/nnt 抽取/v 容量/n @实体/n 样本/n 已知/nz 高中生/nnd 抽取/v @数量/n @实体/n &&StratifiedSampleFormula_5
+高一/n @集合/n @数量/n 学生/nnt @数量/n @数量/n @数量/n 了解/v 高中学生/nz 牙齿/n 健康状况/n 各年级/nz 学生/nnt 进行/vn 分层抽样/gm @数量/n 抽取/v @数量/n 学生/nnt @数量/n 抽取/v 学生/nnt &&StratifiedSampleFormula_1
+强化/v 安全意识/nz 商场/nis 未来/t 连续/a @数量/n 选择/v @数量/n 进行/vn 紧急/a 疏散/v 演练/vn 选择/v @数量/n 连续/a @数量/n 概率/n &&PRBindFormula_01
+运动员/nnt 可能/v @数量/n 颜色/n 运动服/n 选择/v @数量/n 选择/v 相同/a 颜色/n 运动服/n 概率/n &&PRChoiceSameFormula
+@数量/n 不同/a 数学/n @数量/n 语文/n 书架上/n 排成/v 一行/n @数量/n 本数/n 学书/nz 相邻/vi 概率/n &&PRBindFormula_02
+庆祝/v @数量/n 儿童节/t 食品厂/nis 制作/v @数量/n 不同/a 精美/a 卡片/n 食品/n 装入/v 卡片/n 集齐/v @数量/n 卡片/n 获奖/vn 购买/v 该种食品/nt @数量/n 获奖/vn 概率/n &&PRReplacementExtractFormula_02
+单位/n 计划/n 下月/t @数量/n @数量/n 举办/v 人才/n 交流会/n 选择/v 连续/a 参加/v 交流会/n 选择/v @数量/n @数量/n @数量/n 概率/n &&PRExtractContainSubsetFormula_01
+学院/nis @实体/n 专业/n 共有/v @数量/n 学生/nnt 调查/vn 学生/nnt 勤工俭学/vl 情况/n 采用/v 分层抽样/gm 方法/n 抽取/v 容量/n @数量/n 样本/n 已知该学院/nt @实体/n 专业/n @数量/n 学生/nnt @实体/n 专业/n @数量/n 学生/nnt 该学院/nt @实体/n 专业/n 抽取/v 学生/nnt &&StratifiedSampleFormula_5
+某公司/nz 班车/n @集合/n 发车/vn 小明/nz @数量/n @数量/n 之间/f 到达/v 车站/n 乘坐/v 班车/n 到达/v 车站/n 时刻/n 时间/n 超过/v @数量/n 概率/n &&none
+芝麻/n 汤圆/nf @数量/n 花生/n 汤圆/nf @数量/n 豆沙馅/nf 汤圆/nf @数量/n @数量/n 汤圆/nf 外部/f 特征/n 完全相同/nz 从中/d 任意/d 舀取/n @数量/n 汤圆/nf 汤圆/nf 至少/d 取到/v @数量/n 概率/n &&PRReplacementExtractFormula_02
+不同/a 长篇小说/n @集合/n 组成/v @数量/n @数量/n 任意/d 排成/v 左边/f @数量/n 属于/v 小说/n 概率/n &&PRBindFormula_01
+高一/n @集合/n @数量/n 学生/nnt @数量/n @数量/n @数量/n 了解/v 高中学生/nz 牙齿/n 健康状况/n 各年级/nz 学生/nnt 进行/vn 分层抽样/gm @数量/n 抽取/v @数量/n 学生/nnt 高一/n 抽取/v 学生/nnt &&StratifiedSampleFormula_1
+口袋/n 装有/v @数量/n 白球/nr @数量/n 黑球/nz 颜色/n 完全相同/nz 从中/d 摸出/nz @数量/n 至少/d 摸到/v @数量/n 黑球/nz 概率/n 等于/v &&PRClassifyFormula_03
+社会调查机构/nt 居民/n 收入/n 调查/vn @数量/n 所得/n 数据/n 样本/n 频率分布/gm 直方图/n 分析/vn 居民/n 收入/n 年龄/n 学历/n 职业/n 方面/n 关系/n @数量/n 人中/n 分层抽样/gm 方法/n 抽出/v @数量/n 进一步/d 调查/vn @数对/n 收入/n 段应/nr 抽出/v &&StratifiedSampleFormula_1
+学校/nis 共有/v 师生/n @数量/n 现用/n 分层抽样/gm 方法/n 师生/n 抽取/v 容量/n @数量/n 样本/n 已知/nz 学生/nnt 抽取/v 人数/n @集合/n 学校/nis 教师/nnt 人数/n &&StratifiedSampleFormula_1
+一个小组中有/nt @数量/n 女同学/nz @数量/n 男同学/nz 从中/d 任意/d 挑选/v @数量/n 同学/n 担任/v 交通安全/nz 宣传/vn 志愿者/nnt 名都/n 女同学/nz 概率/n &&PRExtractSameSubsetFormula_02
+地区有/nt @数量/n 商店/nis @数量/n 商店/nis @数量/n 商店/nis @数量/n 掌握/v 商店/nis 营业/vn 情况/n 从中/d 抽取/v 容量/n @数量/n 样本/n 采用/v 分层抽样/gm 方法/n 抽取/v 商店/nis &&StratifiedSampleFormula_1
+甲校/nt @数量/n 学生/nnt 乙校/nr @数量/n 学生/nnt 丙校/n @数量/n 学生/nnt 统计/vn @数量/n 学生/nnt 方面/n 情况/n 计划/n 采用/v 分层抽样/gm 抽取/v 容量/n @数量/n 样本/n @数量/n 抽取/v 学生/nnt &&StratifiedSampleFormula_3
+轻轨/n 列车/n @数量/n 节车厢/n 现有/v @数量/n 乘客/n 准备/v 乘坐/v 乘客/n 进入/v 车厢/n 可能/v @数量/n 乘客/n 进入/v 节车厢/n 人数/n @集合/n 概率/n &&PRBindFormula_01
+@数量/n 钥匙/n @数量/n 打开/v 从中/d 任取/v @数量/n 打开/v 概率/n &&PRExtractSameSubsetFormula_01
+@数量/n 篮球队/nis @数量/n 强队/n @数量/n 任意/d 分成/vi @数量/n @数量/n @数量/n 强队/n 分在/v 概率/n &&PRExtractSameSubsetFormula_01
+@数量/n 邵阳/ns 同学/n 遇到/v 一道/d 不会/v 选择题/n @数量/n 选项/n 正确/a 选对/v 概率/n &&PRExtractSameSubsetFormula_01
+袋中/s 形状/n 大小/n 相同/a @数量/n @数量/n 白球/nr @数量/n 红球/nz @数量/n 黄球/nr 从中/d 摸出/nz @数量/n @数量/n 颜色/n 不同/a 概率/n &&PRExtractAllSubsetFormula_01
+布袋/n 里面/f 装有/v @数量/n @数量/n 红球/nz @数量/n 白球/nr 颜色/n 完全相同/nz 从中/d 任意/d 摸出/nz 红球/nz 概率/n &&PRExtractSameSubsetFormula_01
+@数量/n 相邻/vi 概率/n &&PRBindFormula_02
+@数量/n @数量/n @数量/n 学生/nnt 任选/v @数量/n @数量/n 名都/n 女同学/nz 概率/n 等于/v &&PRExtractSameSubsetFormula_01
+@数量/n 同学/n @集合/n 周日/t 任选/v 参加/v 公益活动/nz @集合/n 周日/t 同学/n 参加/v 公益活动/nz 概率/n &&PRDistributeFormula_07
+已知/nz @数量/n 产品中有/nt @数量/n 次品/n 合格品/n @数量/n 件产品/n 任取/v @数量/n 件次/n 概率/n &&PRExtractSameSubsetFormula_01
+袋中/s 共有/v @数量/n 颜色/n 完全相同/nz @数量/n 白球/nr @数量/n 红球/nz 袋中/s 任取/v @数量/n 所取/v @数量/n 球中有/nt @数量/n 白球/nr @数量/n 红球/nz 概率/n &&PRExtractAllSubsetFormula_01
+乙等/nz @数量/n 学生/nnt 选出/v @数量/n 选中/v 概率/n &&PRExistElementFormuale
+字母/n @实体/n 任取/v 不同/a 字母/n 取到/v 字母/n @实体/n 概率/n &&PRExistElementFormuale
+@数量/n 产品中有/nt @数量/n 正品/n @数量/n 次品/n 从中/d 任取/v @数量/n 取到/v @数量/n 件次/n 概率/n &&PRExtractContainSubsetFormula_01
+强化/v 安全意识/nz 商场/nis 未来/t 连续/a @数量/n 选择/v @数量/n 进行/vn 紧急/a 疏散/v 演练/vn 选择/v @数量/n 连续/a @数量/n 概率/n &&PRBindFormula_01
+@数量/n 同学/n 参加/v 跳高/vn 跳远/vn 铅球/n 项目/n 比赛/vn 选择/v 项目/n 仅有/nz 选择/v 项目/n 完全相同/nz 概率/n &&PRReplacementExtractFormula_01
+袋中/s 共有/v @数量/n 颜色/n 完全相同/nz @数量/n 红球/nz @数量/n 白球/nr @数量/n 黑球/nz 袋中/s 任取/v 颜色/n 概率/n 等于/v &&PRExtractContainSubsetFormula_01
+@数量/n 同学/n 参加/v 跳高/vn 跳远/vn 铅球/n 项目/n 比赛/vn 选择/v 项目/n 仅有/nz 同学/n 选择/v 项目/n 相同/a 概率/n &&PRChoiceSameFormula
+@数量/n 兴趣小组/nz 同学/n 参加/v 小组/nis 同学/n 参加/v 小组/nis 可能性/n 相同/a 同学/n 参加/v 兴趣小组/nz 概率/n &&PRChoiceSameFormula
+强化/v 安全意识/nz 商场/nis 未来/t 连续/a @数量/n 选择/v @数量/n 进行/vn 紧急/a 疏散/v 演练/vn 选择/v @数量/n 连续/a @数量/n 概率/n &&PRBindFormula_01
+运动员/nnt 可能/v @数量/n 颜色/n 运动服/n 选择/v @数量/n 选择/v 相同/a 颜色/n 运动服/n 概率/n &&PRChoiceSameFormula
+@数量/n 不同/a 数学/n @数量/n 语文/n 书架上/n 排成/v 一行/n @数量/n 本数/n 学书/nz 相邻/vi 概率/n &&PRBindFormula_02
+写有/v 中国/ns 美国/nsf 英国/ns 韩国/nsf @数量/n 卡片/n 从中/d 抽取/v 抽到/nz 卡片/n 对应/vi 国家为亚洲/nt 概率/n &&PRExtractSameSubsetFormula_01
+盒子/n 装有/v @数量/n 红球/nz @数量/n 颜色/n 完全相同/nz 盒子/n 任意/d 摸出/nz 概率/n &&PRExtractSameSubsetFormula_01
+庆祝/v @数量/n 儿童节/t 食品厂/nis 制作/v @数量/n 不同/a 精美/a 卡片/n 食品/n 装入/v 卡片/n 集齐/v @数量/n 卡片/n 获奖/vn 购买/v 该种食品/nt @数量/n 获奖/vn 概率/n &&PRReplacementExtractFormula_02
+芝麻/n 汤圆/nf @数量/n 花生/n 汤圆/nf @数量/n 豆沙馅/nf 汤圆/nf @数量/n @数量/n 汤圆/nf 外部/f 特征/n 完全相同/nz 从中/d 任意/d 舀取/n @数量/n 汤圆/nf 汤圆/nf 至少/d 取到/v @数量/n 概率/n &&PRReplacementExtractFormula_02
+透明/a 袋子/n 装有/v 黑球/nz 白球/nr 颜色/n 相同/a 从中/d 摸出/nz 记下/v 颜色/n 放回/vf 袋子/n 充分/ad 摇匀/v 摸出/nz 摸到/v 黑球/nz 概率/n &&PRSameChoiceFormula
+不同/a 长篇小说/n @集合/n 组成/v @数量/n @数量/n 任意/d 排成/v 左边/f @数量/n 属于/v 小说/n 概率/n &&PRBindFormula_01
+口袋/n 装有/v @数量/n 白球/nr @数量/n 黑球/nz 颜色/n 完全相同/nz 从中/d 摸出/nz @数量/n 至少/d 摸到/v @数量/n 黑球/nz 概率/n 等于/v &&PRClassifyFormula_03
+袋中/s @数量/n 红球/nz @数量/n 白球/nr 袋中/s 任取/v @数量/n @数量/n 红球/nz 概率/n &&PRExtractSameSubsetFormula_02
+透明/a 布袋中/nrf 装有/v @数量/n 白球/nr @数量/n 红球/nz 颜色/n 不同/a 相同/a 从中/d 摸出/nz 摸到/v 红球/nz 概率/n &&PRExtractSameSubsetFormula_01
+盒子/n 内放/n @数量/n 红球/nz @数量/n 白球/nr @数量/n 黑球/nz 颜色/n 相同/a 搅匀/vi 任意/d 摸出/nz @数量/n 白球/nr 概率/n &&PRExtractSameSubsetFormula_02
+商场/nis 开展/v 购物/vn 投资/vn 促销/vn 活动/vn 抽奖/vn @数量/n 抽奖/vn 一等奖/n @数量/n 二等奖/n @数量/n 三等奖/n @数量/n 抽奖/vn 顾客/n 购物/vn 参加/v 抽奖/vn 活动/vn 抽奖/vn 抽取/v 中奖/vi 概率/n &&PRExtractSameSubsetFormula_02
+@数量/n 外观/n 相同/a 产品中有/nt @数量/n 合格/vi 从中/d 任意/d 抽取/v @数量/n 进行/vn 检测/vn 抽到/nz 合格/vi 产品/n 概率/n &&PRExtractSameSubsetFormula_01
+@数量/n 遂宁/ns 透明/a 布袋中/nrf 放有/v @数量/n 白球/nr @数量/n 红球/nz 颜色/n 完全相同/nz 从中/d @数量/n 摸到/v 红球/nz 概率/n &&PRExtractSameSubsetFormula_02
+@数量/n 钥匙/n @数量/n 钥匙/n 打开/v 小明/nz 选对/v 钥匙/n 概率/n &&PRExtractSameSubsetFormula_01
+@数量/n 英德市/ns 一模]/nt 闹元宵/nz 汤圆/nf 我国/n 传统习俗/nz 正月/t @数量/n 小明/nz 妈妈/n 汤圆/nf @数量/n 花生/n @数量/n 芝麻/n 小明/nz 任意/d 吃到/v 花生/n 汤圆/nf 概率/n &&PRExtractSameSubsetFormula_02
+数学/n 兴趣小组/nz 女生/n @数量/n 男生/n @数量/n 指定/v 组长/nnt 女生/n 概率/n &&PRExtractSameSubsetFormula_02
+生产/vn 螺钉/n 抽取/v @数量/n 进行/vn 质量检查/nz 发现/v @数量/n 次品/n 从中/d 任取/v @数量/n 次品/n 概率/n &&PRExtractSameSubsetFormula_01
+透明/a 口袋/n 装有/v 红球/nz @数量/n 白球/nr @数量/n 黑球/nz @数量/n 颜色/n 不同/a 区别/n 从中/d 任意/d 摸出/nz 黑球/nz 概率/n &&PRExtractSameSubsetFormula_02
+学校/nis @数量/n 男生/n @数量/n 女生/n 选出/v @数量/n 上海世博会/nt 志愿者/nnt 选出/v 志愿者/nnt 男女生/nz @数量/n 概率/n &&PRClassifyFormula_03
+一个小组中有/nt @数量/n 女同学/nz @数量/n 男同学/nz 从中/d 任意/d 挑选/v @数量/n 同学/n 担任/v 交通安全/nz 宣传/vn 志愿者/nnt 名都/n 女同学/nz 概率/n &&PRExtractSameSubsetFormula_02
+@数量/n 奖券/n @数量/n 张有奖/nr @数量/n 个人/n 购买/v 至少/d @数量/n 中奖/vi 概率/n &&PRExtractContainSubsetFormula_01
+@数量/n 学生/nnt @数量/n 选修/v @实体/n 课程/n @数量/n 选修/v @实体/n 课程/n 班级/n 任选/v 学生/nnt 选修/v 不同/a 课程/n 学生/nnt 概率/n &&PRExtractAllSubsetFormula_01
+@数量/n 钥匙/n @数量/n 打开/v 从中/d 任取/v @数量/n 打开/v 概率/n &&PRExtractSameSubsetFormula_01
+@数量/n 篮球队/nis @数量/n 强队/n @数量/n 任意/d 分成/vi @数量/n @数量/n @数量/n 强队/n 分在/v 概率/n &&PRExtractSameSubsetFormula_01
+透明/a 布袋/n 装有/v @数量/n 颜色/n 不同/a @数量/n 红球/nz @数量/n 白球/nr 布袋中/nrf 摸出/nz 摸出/nz 红球/nz 概率/n &&PRExtractSameSubsetFormula_02
+@数量/n 抽取/v 班与初/nr @数量/n 进行/vn 拔河比赛/nz 抽到/nz @数量/n 概率/n &&PRExtractSameSubsetFormula_01
+透明/a 布袋中/nrf 装有/v @数量/n 白球/nr @数量/n 红球/nz 颜色/n 不同/a 相同/a 从中/d 摸出/nz 摸到/v 红球/nz 概率/n &&PRExtractSameSubsetFormula_02
+学校组织/nt 校外/s 实践/vn 活动/vn 安排/v @数量/n 年级/n @数量/n 小明/nz @数量/n 任选/v 搭乘/v 小明/nz 同车/nz 概率/n &&PRChoiceSameFormula
+@数量/n 年级/n @数量/n 抽取/v @数量/n 年级/n @数量/n 进行/vn 拔河比赛/nz 抽到/nz @数量/n 年级/n @数量/n 概率/n &&PRExtractSameSubsetFormula_01
+装有/v 形状/n 大小/n 完全相同/nz @数量/n 红色/n @数量/n 黄色/n @数量/n 取出/v @数量/n 取出/v @数量/n 颜色/n 不同/a 概率/n 等于/v &&PRClassifyFormula_03
+课间休息/nz 小亮/nr 小明/nz 一起/s 剪刀/n 石头/n 游戏/n 明出/nr 剪刀/n 概率/n &&PRExtractSameSubsetFormula_01
+@数量/n 东西湖区/ns 校级/nz 模拟/vn 透明/a 口袋/n 装有/v 颜色/n 相同/a @数量/n 白球/nr @数量/n 黄球/nr @数量/n 从中/d 任取/v 黄球/nr 概率/n &&PRExtractNotContainSubsetFormula_03
+电路图/n 上有/v @实体/n 开关/n 灯泡/n 闭合/vn 开关/n @实体/n 闭合/vn 开关/n @实体/n 灯泡/n 发光/vi 现在/t 任意/d 闭合/vn 开关/n 灯泡/n 发光/vi 概率/n 等于/v &&PRExtractSameSubsetFormula_01
+硬币/n 硬币/n 硬币/n 反面/n 概率/n &&@P=1/2
+不等式/n @表达式/n @表达式/n 表示/v 平面/n 区域/n @实体/n 区域/n @实体/n 坐标/n 原点/n 距离/n 大于/v @数量/n 概率/n &&none
+个位数/nz @数量/n 位数/n 之和/n 奇数/n 两位数/n 任取/v 个位数/nz @数量/n 概率/n &&none
+@实体/n 线段/n @实体/n 上任/vi 一点/t @实体/n 矩形/n 边长/n 等于/v 线段/n @实体/n 矩形/n 面积/n 小于/v @实体/n 概率/n &&none
+晚上/t 小丽/nr 清洗/v 颜色/n 分别为/v 粉色/n 白色/n 茶杯/n 突然/ad 停电/vi 小丽/nr 只好/d 盖和/nr 茶杯/n 搭配/v 一起/s 颜色/n 搭配/v 一致/a 概率/n &&PRDistributeFormula_07
+共有/v @数量/n 同学/n @数量/n 同学/n 习惯/n 左手/n 写字/vi 同学/n 习惯/n 右手/n 写字/vi 老师/nnt @数量/n 同学/n 解答/v 问题/n 习惯/n 左手/n 写字/vi 同学/n 选中/v 概率/n &&PRExtractSameSubsetFormula_01
+书架上/n @数量/n 小说/n @数量/n 散文/n 从中/d 抽取/v @数量/n 小说/n 概率/n &&PRExtractSameSubsetFormula_02
+城镇/n 共有/v @数量/n 万人/nr 调查/vn @数量/n 发现/v 早上/t 城市/n 早报/n 报纸/n 人数/n @集合/n 请问/v 城镇/n 早上/t 城市/n 早报/n 概率/n &&PRExtractSameSubsetFormula_01
+小明/nz 小亮/nr @数量/n 社区/n 选取/v 一个社区/nt 参加/v 综合/vn 实践/vn 活动/vn 小明/nz 小亮/nr 社区/n 概率/n &&PRChoiceSameFormula
+@数量/n 袋中/s 装有/v @数量/n @数量/n 袋中/s 红球/nz 黄球/nr @数量/n 袋中/s 黄球/nr 黑球/nz @数量/n 袋中/s 摸出/nz 摸出/nz @数量/n 球中有/nt @数量/n 黄球/nr 红球/nz 概率/n &&@P=C(u1,u2)*C(u3,u4)/C(u1+u2,u3+u4)
+小军/nz 旅行箱/nz 密码/n @数量/n 位数/n 忘记/v 密码/n 末位/nz 数字/n 小军/nz 打开/v 旅行箱/nz 概率/n &&PRExtractSameSubsetFormula_01
+自由/a 转动/v 转盘/n @数量/n 颜色/n @数量/n 扇形/n 面积/n 相等/vi 转动/v 转盘/n 转盘/n 停止/v 指针/n 指向/v 蓝色/n 概率/n &&PRChoiceSameFormula
+自由/a 旋转/vi 转盘/n 分成/vi @数量/n 扇形/n 区域/n 指针/n 固定/a 不变/nz 转动/v 转盘/n 指针/n 等分线/n 重新/d 转动/v 直至/v 指针/n 扇形/n 区域内/nz 指针/n 区域内/nz 概率/n &&PRChoiceSameFormula
+袋子/n 装有/v @数量/n @数量/n 红球/nz @数量/n 黄球/nr @数量/n 颜色/n 形状/n 大小/n 质地/n 完全相同/nz 充分/ad 搅匀/vi 看不到/v 条件/n 袋子/n 摸出/nz 概率/n &&PRExtractNotContainSubsetFormula_03
+电路图/n 上有/v @实体/n 开关/n 灯泡/n 闭合/vn 开关/n @实体/n 闭合/vn 开关/n @实体/n 灯泡/n 发光/vi 现在/t 任意/d 闭合/vn 开关/n 灯泡/n 发光/vi 概率/n 等于/v &&PRExtractSameSubsetFormula_01
+透明/a 口袋/n 大小/n 形状/n 完全相同/nz 颜色/n 不同/a @数量/n 从中/d 摸出/nz 红球/nz 概率/n @数量/n 袋中/s 红球/nz 个数/n &&@N=u1*p1
+@数量/n 印有/v 北京/ns @数量/n 奥运会/n 吉祥物/n 贝贝/nrf 晶晶/nz 欢欢/nz 迎迎/nz 妮妮/nz 卡片/n 卡片/n 形状/n 大小/n 质地/n 相同/a 放入/v 从中/d 抽取/v 卡片/n 印有/v 妮妮/nz 概率/n &&PRExtractSameSubsetFormula_01
+透明/a 口袋/n 装有/v 红球/nz @数量/n 白球/nr @数量/n 黑球/nz @数量/n 颜色/n 不同/a 区别/n 从中/d 任意/d 摸出/nz 摸到/v 黑球/nz 概率/n &&PRExtractSameSubsetFormula_01
+华与/nr 父母/n 广州乘火车回成都/nt 参观/v 省博物馆/ns 买到/v 火车票/n 相邻/vi @数量/n 座位/n 坐在/v 父母/n 中间/f 概率/n &&PRLocalLimitFormula_01
+袋中/s @数量/n 红球/nz @数量/n 白球/nr @数量/n 黄球/nr 颜色/n 相同/a 袋中/s 任意/d 摸出/nz 白球/nr 概率/n &&PRExtractSameSubsetFormula_02
+校学生会/nt 提倡/v 双休日/t 养老院/nis 参加/v 服务/vn 活动/vn 活动/vn 需要/v @数量/n 同学/n 参加/v 现有/v 包括/v 小杰/nz @数量/n 同学/n 报名/vi 学生会/nis @数量/n 同学/n 抽取/v @数量/n 小杰/nz 抽到/nz 参加/v 活动/vn 概率/n &&@P=C(u1-1,u2-1)/C(u1,u2)
+举行/v 保护环境/nz 从我做起/l 主题/n 演讲比赛/n 预赛/n @数量/n 年级/n 同学/n 进入/v 决赛/vn @数量/n 年级/n 同学/n 进入/v 决赛/vn @数量/n 年级/n 同学/n 进入/v 决赛/vn 名都/n @数量/n 年级/n 同学/n 概率/n &&PRLocalLimitFormula_01
+小芳/nz 均匀/a 硬币/n @数量/n @数量/n @数量/n 概率/n &&@P=1/2
+透明/a 口袋/n @数量/n 颜色/n 小球/n @数量/n 种球/n 颜色/n 完全相同/nz @数量/n 红球/nz @数量/n 摸出/nz 概率/n @数量/n 摸出/nz 蓝球/nz 概率/n &&u1/(u1+u2+N)=p1#P=N/(u1+u2+N)
+妞妞/nz 爸爸/n 锤子/n 剪刀/n 游戏/n 锤子/n 剪刀/n @数量/n 手势/n 规则/n 锤子/n 剪刀/n 剪刀/n 布赢/nr 锤子/n 相同/a 手势/n 妞妞/nz 爸爸/n 相同/a 手势/n 概率/n &&PRChoiceSameFormula
+袋中/s @数量/n 红球/nz @数量/n 白球/nr @数量/n 黄球/nr 颜色/n 相同/a 袋中/s 任意/d 摸出/nz 白球/nr 概率/n &&PRExtractSameSubsetFormula_02
+质检/vn @数量/n 开关中/ns 抽查/vn @数量/n @数量/n 合格/vi 抽到/nz 合格/vi 产品/n 概率/n &&PRExtractSameSubsetFormula_01
+学校团委/nt @数量/n 青年节/t 举行/v 感动/v 校园/n @数量/n 大人物/n 颁奖/vn 活动/vn @数量/n 决定/v @数量/n 人中/n 代表/nnt 参加/v 活动/vn @数量/n 参加/v 活动/vn 概率/n &&PRExtractSameSubsetFormula_01
+晚上/t 小丽/nr 清洗/v 颜色/n 分别为/v 粉色/n 白色/n 茶杯/n 突然/ad 停电/vi 小丽/nr 只好/d 盖和/nr 茶杯/n 搭配/v 一起/s 颜色/n 搭配/v 一致/a 概率/n &&PRExtractNotContainSubsetFormula_03
+@数量/n 路口/n 汽车/n 可能/v 继续/v 直行/nz 可能/v 左或/nr 向右转/nz @数量/n 可能性/n 大小/n 相同/a 汽车/n @数量/n 路口/n 继续/v 直行/nz 概率/n &&@P=(1/u1)^u2
+透明/a 口袋/n 装有/v 红球/nz @数量/n 黄球/nr @数量/n @数量/n 颜色/n 区别/n 从中/d 任意/d 摸出/nz 摸到/v 概率/n &&PRExtractSameSubsetFormula_02
+商店/nis 举办/v 有奖/vn 储蓄/vn 活动/vn 购货/vn @数量/n 兑奖/v @数量/n 奖券/n 特等奖/n @数量/n 一等奖/n @数量/n 二等奖/n @数量/n 购物满/n @数量/n 一等奖/n 概率/n &&PRExtractSameSubsetFormula_01
+透明/a 布袋中/nrf 放有/v @数量/n 白球/nr @数量/n 红球/nz 颜色/n 完全相同/nz 从中/d @数量/n 摸到/v 红球/nz 概率/n &&PRExtractSameSubsetFormula_02
+学习/v 兴趣小组/nz @数量/n 女生/n @数量/n 男生/n @数量/n 学生/nnt 选出/v 担任/v 组长/nnt 女生/n 当选/v 组长/nnt 概率/n &&PRExtractSameSubsetFormula_01
+@数量/n 路口/n 汽车/n 直行/nz 左转/nz 右转/nz @数量/n 可能性/n 相同/a 汽车/n 路口/n 右转/nz 概率/n &&@P=(1/u1)^u2
+明和/nr 父母/n 一同/d 坐火车/v 杭州/ns 温州/ns 火车车厢/n 每排/nz 左中右/nr @数量/n 座位/n 随意/ad @数量/n 座位/n 小明/nz 坐在/v 中间/f 概率/n &&PRLocalLimitFormula_01
+透明/a 盒子/n 装有/v @数量/n 大小/n 相同/a 乒乓球/n @数量/n 黄球/nr @数量/n 白球/nr 盒子/n 任意/d 摸出/nz 摸到/v 黄球/nr 概率/n &&PRExtractSameSubsetFormula_01
+@数量/n @数量/n 学生/nnt 抽取/v @数量/n 学生/nnt 担任/v 升旗手/nz 抽取/v @数量/n 学生/nnt 概率/n &&PRExtractSameSubsetFormula_01
+班级/n 学生/nnt @数量/n 共青团员/n @数量/n 全班/n 分成/vi @数量/n 小组/nis 第一小组有/nt 学生/nnt @数量/n 共青团员/n @数量/n 班内/nr 任选/v 学生/nnt 代表/nnt 代表/nnt 第一小组/nt 概率/n &&PRExtractSameSubsetFormula_01
+班级/n 学生/nnt @数量/n 共青团员/n @数量/n 全班/n 分成/vi @数量/n 小组/nis 第一小组有/nt 学生/nnt @数量/n 共青团员/n @数量/n 现在/t 班级/n 任选/v 共青团员/n 团员/nnt 代表/nnt 代表/nnt 第一小组/nt 概率/n &&PRExtractSameSubsetFormula_01
+质量/n 分布/vi 均匀/a 硬币/n 抛掷/v @数量/n 至少/d 抛出/v @数量/n 相同/a 一面/n 概率/n &&@P=∑(k=u2>u1)C(u1,k)*(1/2)^k*(1/2)^(u1-k)
+学生/nnt 小明/nz 自行车/n 上学时/n @数量/n 路口/n @数量/n 路口有/nr @数量/n 交通/n 信号灯/n 路口/n 遇到/v 红灯/n 概率/n @数量/n 遇到/v 黄灯/nz 概率/n @数量/n 遇到/v 绿灯/n 概率/n &&@P=1-p1-p2
+透明/a 箱子/n 装有/v @数量/n 白棋/n 黑棋子/n 摸出/nz 黑棋子/n 概率/n @数量/n 黑棋子/n &&@N=u1/(1-p1)
+已知/nz 布袋/n 装有/v @数量/n 红球/nz @数量/n 白球/nr @实体/n 黄球/nr 颜色/n 相同/a 布袋/n 任意/d 摸出/nz 红球/nz 概率/n @数量/n @实体/n 等于/v &&@N=u1/p1-u1-u2
+学校有男学生有/nt @数量/n 女学生有/nt @数量/n 了解/v 男女/n 学生/nnt 学习/v 兴趣/n 业余爱好/nz 方面/n 是否/v 存在/v 显著/ad 差异/n 全体学生/n 抽取/v @数量/n 学生/nnt 进行/vn 调查/vn 抽取/v 男学生/nt 人数/n ___/nx &&StratifiedSampleFormula_3
+单位有/nt @数量/n 职工/nnt 采用/v 系统抽样/gm 方法/n 抽取/v @数量/n 问卷调查/n @数量/n @集合/n @数量/n 编号/n 抽取/v @数量/n 人中/n 编号/n 落入/v 区间/n @数对/n 人数/n &&SystemSampleFormula
+工厂/nis @数量/n 车间/n 生产/vn 产品/n 数量/n 分别为/v @数量/n @数量/n @数量/n 了解/v 产品质量/nz 是否/v 存在/v 显著/ad 差异/n 分层抽样/gm 方法/n 抽取/v 容量/n @实体/n 样本/n 进行/vn 调查/vn 车间/n 产品/n 抽取/v @数量/n @表达式/n &&StratifiedSampleFormula_6
+马拉松/n 比赛/vn @数量/n 运动员/nnt 成绩/n 单位/n 茎叶/n 如图所示./nt 运动员/nnt 成绩/n 编为/v $@/nx 实体/n @数量/n 系统抽样/gm 方法/n 从中/d 抽取/v @数量/n 成绩/n 区间/n @数对/n 运动员/nnt 人数/n &&SystemSampleFormula
+我国/n 古代/t 数学/n 名著/n @数量/n 算术/n 谷粒/n 粮仓/n 开仓/nz 送来/v @数量/n 米内/nr 抽样/vn 米一/nr @数量/n @数量/n 米内/nr 谷约为/nr &&StratifiedSampleFormula_2
+马拉松/n 比赛/vn @数量/n 运动员/nnt 成绩/n 单位/n 茎叶/n 如图所示/i 运动员/nnt 成绩/n 编为/v @数量/n 系统抽样/gm 方法/n 从中/d 抽取/v @数量/n 成绩/n 区间/n @数对/n 运动/vn 人数/n &&SystemSampleFormula
+高一/n 年级/n @数量/n 学生/nnt 女生/n @数量/n 男女比例/nz 分层抽样/gm 方法/n 年级/n 学生/nnt 抽取/v 容量/n @数量/n 样本/n 抽取/v 男生/n 人数/n &&StratifiedSampleFormula_4
+高校/n @数量/n 专业/n @数量/n @数量/n @数量/n @数量/n 学生/nnt 了解/v 学生/nnt 就业/vn 倾向/n 分层抽样/gm 方法/n @数量/n 专业/n 抽取/v @数量/n 学生/nnt 进行/vn 调查/vn 专业/n 抽取/v 的学生/nt 人数/n &&StratifiedSampleFormula_4
+了解/v @数量/n 学生/nnt 学习/v 情况/n 采用/v 系统抽样/gm 方法/n 从中/d 抽取/v 容量/n @数量/n 样本/n 分段/vd 间隔/n &&SystemSampleFormula
+两套设备生产的同类型产品/ntcf @数量/n 采用/v 分层抽样/gm 方法/n 从中/d 抽取/v 容量/n @数量/n 样本/n 进行/vn 质量检测./nt 样本/n @数量/n 件产品/n 设备/n 生产/vn 设备生产的产品/nt 总数/n &&StratifiedSampleFormula_6
+地区有小学/nt @数量/n 中学/nis @数量/n 大学/nis @数量/n 采用/v 分层抽样/gm 方法/n 学校/nis 抽取/v @数量/n 所学校/nt 学生/nnt 进行/vn 视力/n 应从/v 小学/nis 抽取/v 所学校/nt &&StratifiedSampleFormula_3
+地区有小学/nt @数量/n 中学/nis @数量/n 大学/nis @数量/n 采用/v 分层抽样/gm 方法/n 学校/nis 抽取/v @数量/n 所学校/nt 学生/nnt 进行/vn 视力/n 中学/nis 抽取/v 所学校/nt &&StratifiedSampleFormula_3
+采用/v 系统抽样/gm 方法/n @数量/n 人中/n 抽取/v @数量/n 问卷调查/n 编号/n @集合/n @集合/n 分组/vn 第一组/nt 采用/v 简单/a 随机抽样/gm 方法/n 抽到/nz 号码/n @数量/n 抽到/nz @数量/n 人中/n 编号/n 落入/v 区间/n @数对/n 问卷/n @实体/n 编号/n 落入/v 区间/n @数对/n 问卷/n @实体/n 问卷/n @实体/n 抽到/nz 人中/n 问卷/n @实体/n 人数/n &&SystemSampleFormula
+一支田径队有/nt 男女/n 运动员/nnt @数量/n 运动员/nnt @数量/n 男女比例/nz 分层抽样/gm 方法/n 运动员/nnt 抽出/v 容量/n @数量/n 样本/n 抽取/v 运动员/nnt 人数/n &&StratifiedSampleFormula_6
+一支田径运动队/nt 运动员/nnt @数量/n 运动员/nnt @数量/n 现用/n 分层抽样/gm 方法/n 抽取/v 抽取/v 运动员/nnt @数量/n 抽取/v 运动员/nnt &&StratifiedSampleFormula_3
+交通管理/nz 部门/n 了解/v 机动车/n 驾驶员/nnt 简称/v 驾驶员/nnt 法规/n 知晓/vn 情况/n @数量/n 社区/n 分层/v 抽样调查/vl 假设/n @数量/n 社区/n 驾驶员/nnt 总人数/nz @实体/n 甲社区有/nt 驾驶员/nnt @数量/n @数量/n 社区/n 抽取/v 驾驶员/nnt 人数/n 分别为/v @集合/n @数量/n 社区/n 驾驶员/nnt 总人数/nz @实体/n &&@(u1+u2+u3+u4)/N=u1/u5
+年级/n 男生/n @数量/n 女生/n @数量/n 分层抽样/gm 方法/n 年级/n 全体学生/n 抽取/v 容量/n @数量/n 样本/n 样本/n 男生/n 人数/n &&StratifiedSampleFormula_3
+中学有/nt 高中生/nnd @数量/n 初中生/nnd @数量/n 了解/v 学生/nnt 学习/v 情况/n 分层抽样/gm 方法/n 学生/nnt 抽取/v 容量/n @实体/n 样本/n 已知/nz 高中生/nnd 抽取/v @数量/n @实体/n &&StratifiedSampleFormula_3
+高一/n @数量/n @数量/n 学生/nnt @数量/n @数量/n @数量/n 了解/v 高中学生/nz 牙齿/n 健康状况/n 各年级/nz 学生/nnt 进行/vn 分层抽样/gm @数量/n 抽取/v @数量/n 学生/nnt 高一/n 抽取/v 学生/nnt &&StratifiedSampleFormula_3
+高一/n @数量/n @数量/n 学生/nnt @数量/n @数量/n @数量/n 了解/v 高中学生/nz 牙齿/n 健康状况/n 各年级/nz 学生/nnt 进行/vn 分层抽样/gm @数量/n 抽取/v @数量/n 学生/nnt @数量/n 抽取/v 学生/nnt &&StratifiedSampleFormula_3
+学校有男学生有/nt @数量/n 女学生有/nt @数量/n 了解/v 男女/n 学生/nnt 学习/v 兴趣/n 业余爱好/nz 方面/n 是否/v 存在/v 显著/ad 差异/n 全体学生/n 抽取/v @数量/n 学生/nnt 进行/vn 调查/vn 抽取/v 女学生/nz 人数/n ___/nx &&StratifiedSampleFormula_3
+地区有/nt @数量/n 商店/nis 大型商店/nt @数量/n 商店/nis @数量/n 商店/nis @数量/n 掌握/v 各商店/nt 营业/vn 情况/n 从中/d 抽取/v 容量/n @数量/n 样本/n 采用/v 分层抽样/gm 方法/n 抽取/v 商店/nis &&StratifiedSampleFormula_3
+甲校/nt @数量/n 学生/nnt 乙校/nr @数量/n 学生/nnt 丙校/n @数量/n 学生/nnt 统计/vn @数量/n 学生/nnt 方面/n 情况/n 计划/n 采用/v 分层抽样/gm 抽取/v 容量/n @数量/n 样本/n @数量/n 抽取/v 学生/nnt &&StratifiedSampleFormula_3
+一个单位有/nt 职工/nnt @数量/n 具有/v 高级职称/nz @数量/n 具有/v 中级职称/nz @数量/n 具有/v 初级职称/nz @数量/n 人员/n @数量/n 了解/v 职工收入/nz 情况/n 决定/v 采用/v 分层抽样/gm 方法/n 从中/d 抽取/v 容量/n @数量/n 样本/n 初级职称/nz 抽取/v 人数/n &&StratifiedSampleFormula_1
+选修/v 乒乓球/n 课程/n 学生/nnt 高一/n 年级/n @数量/n @数量/n 年级/n @数量/n 现用/n 分层抽样/gm 方法/n @数量/n 学生/nnt 抽取/v 样本/n 已知/nz 高一/n 年级/n 学生/nnt 抽取/v @数量/n @数量/n 年级/n 学生/nnt 抽取/v 人数/n &&StratifiedSampleFormula_1
+某市有大型超市/nt @数量/n 超市/nis @数量/n 超市/nis @数量/n 掌握/v 超市/nis 营业/vn 情况/n 分层抽样/gm 方法/n 抽取/v 容量/n @数量/n 样本/n 抽取/v 超市/nis &&StratifiedSampleFormula_3
+课题组/nis 进行/vn 城市/n 空气质量/nz 调查/vn 地域/n @数量/n 城市/n 分成/vi @数量/n 应城市/ns 分别为/v @数量/n @数量/n @数量/n 分层抽样/gm 抽取/v @数量/n 城市/n 抽取/v 的城市/ns &&StratifiedSampleFormula_1
+一支田径队/nt 运动员/nnt @数量/n 运动员/nnt @数量/n 分层抽样/gm 方法/n 运动员/nnt 抽取/v 容量/n @数量/n 样本/n 抽取/v 运动员/nnt 人数/n &&StratifiedSampleFormula_3
+单位有/nt 职工/nnt @数量/n 青年/n 职工/nnt @数量/n 中年/n 职工/nnt @数量/n 老年/n 职工/nnt @数量/n 了解/v 该单位/nt 职工/nnt 健康/a 情况/n 分层抽样/gm 方法/n 从中/d 抽取/v 样本/n 样本/n 中的/v 青年/n 职工/nnt @数量/n 样本容量/gc &&StratifiedSampleFormula_1
+公司/nis 共有/v @数量/n 员工/n 下设/v 部门/n 采用/v 分层抽样/gm 方法/n 员工/n 抽取/v 容量/n @数量/n 样本/n 已知/nz 部门/n @数量/n 员工/n 部门/n 抽取/v 工人/nnt &&StratifiedSampleFormula_1
+林场/nis 树苗/n @数量/n 树苗/n @数量/n 调查/vn 树苗/n 生长/v 情况/n 采用/v 分层抽样/gm 方法/n 抽取/v 容量/n @数量/n 样本/n 样本/n 树苗/n 数量/n &&StratifiedSampleFormula_1
+一个单位/nt 共有/v 职工/nnt @数量/n 超过/v @数量/n @数量/n 超过/v @数量/n @数量/n 调查/vn 职工/nnt 健康状况/n 分层抽样/gm 方法/n 职工/nnt 抽取/v 容量/n @数量/n 样本/n 抽取/v 超过/v @数量/n 职工/nnt &&StratifiedSampleFormula_1
+校有学生/nt @数量/n @数量/n 学生/nnt @数量/n 了解/v 学生/nnt 身体素质/nz 情况/n 采用/v 年级/n 分层抽样/gm 方法/n 学生/nnt 抽取/v @数量/n 样本/n 样本/n 中高/ns @数量/n 学生/nnt 人数/n &&StratifiedSampleFormula_1
+抛掷/v 质地/n 均匀/a 硬币/n 出现/v 反面/n 可能性/n 相同/a @数量/n 硬币/n 出现/v 概率/n &&@P=C(u1,u2)*(1/2)^u2*(1/2)^(u1-u2)
+透明/a 袋子/n 装有/v 颜色/n 相同/a @数量/n 红球/nz @数量/n 白球/nr 从中/d 任意/d 摸出/nz 摸出/nz 白球/nr 概率/n &&PRExtractSameSubsetFormula_02
+火车站/n 显示屏/n 每隔/d @数量/n 显示/v 火车/n 班次/n 信息/n 显示/v 时间/n 持续/vd @数量/n 到达/v 车站/n 显示屏/n 显示/v 火车/n 班次/n 信息/n 概率/n &&PRExtractSameSubsetFormula_02
+定理/n 英文单词/nz @实体/n 中的/v @数量/n 字母/n @数量/n 相同/a 卡片/n 面朝/nz 随意/ad 放在/v 桌子/n 任取/v 取到/v 字母/n @实体/n 概率/n &&PRExtractSameSubsetFormula_01
+抽奖/vn 活动/vn 中奖/vi 概率/n @集合/n 中奖/vi 概率/n &&@P=1-p1
+口袋/n 装有/v @数量/n 白色/n @数量/n 红色/n @数量/n 黄色/n 搅匀/vi 袋中/s 摸出/nz @数量/n 白色/n 概率/n &&PRExtractSameSubsetFormula_02
+袋中/s 红球/nz 白球/nr @数量/n 颜色/n 相同/a 任意/d 摸出/nz 记下/v 颜色/n 放回/vf 袋中/s 搅匀/vi 任意/d 摸出/nz 记下/v 颜色/n 摸到/v 概率/n &&@P=C(u1,u2)*C(u3,u4)/C(u1+u2,u3+u4)
+布袋/n 里面/f 装有/v @数量/n @数量/n 红球/nz @数量/n 白球/nr 颜色/n 完全相同/nz 从中/d 任意/d 摸出/nz 红球/nz 概率/n &&PRExtractSameSubsetFormula_01
+小明/nz 小亮/nr 准备/v 东营/ns 黄河/ns 海口/ns 悦湖/ns @数量/n 景点/n 中选/vi 择一/nz 景点/n 游玩/v 小明/nz 小亮/nr 抽签/vi 方式/n 确定/v 景点/n 抽到/nz 景点/n 概率/n &&PRChoiceSameFormula
+合作小组/nt @数量/n 同学/n 坐在/v 课桌/n 讨论/v 问题/n 学生/nnt @实体/n 座位/n 学生/nnt @实体/n 坐到/v @数量/n 座位/n 学生/nnt @实体/n 坐在/v @数量/n 座位/n 概率/n &&PRLocalLimitFormula_01
+透明/a 口袋/n 装有/v 红球/nz @数量/n 黄球/nr @数量/n 白球/nr @数量/n 颜色/n 以外/f 完全相同/nz 袋中/s 任意/d 摸出/nz 摸到/v 黄球/nr 概率/n &&PRExtractSameSubsetFormula_02
+一支田径运动队/nt 运动员/nnt @数量/n 运动员/nnt @数量/n 现用/n 分层抽样/gm 方法/n 抽取/v 抽取/v 运动员/nnt @数量/n 抽取/v 运动员/nnt &&StratifiedSampleFormula_6
+透明/a 袋子/n 装有/v @数量/n 黑球/nz @数量/n 白球/nr 颜色/n 相同/a 从中/d 摸出/nz @数量/n 记下/v 颜色/n 放回/vf 袋子/n 充分/ad 摇匀/v 摸出/nz @数量/n 摸到/v 黑球/nz 概率/n &&PRSameChoiceFormula
+扑克牌/n @数量/n 包括/v 小王/nz 梅花/n 方块/n 红心/n 黑桃/n @数量/n 花色/n @数量/n 扑克牌/n 充分/ad 随意/ad 抽取/v 抽得/v 红心/n 概率/n &&PRExtractSameSubsetFormula_01
+标有/v 数字/n 方块/n 翻动/v 木牌/n @数量/n 木牌/n 背面/f 贴有/v 中奖/vi 标志/n 翻动/v 一块/s 木牌/n 中奖/vi 概率/n &&PRExtractSameSubsetFormula_01
+布袋/n 里面/f 装有/v @数量/n @数量/n 红球/nz @数量/n 白球/nr 颜色/n 完全相同/nz 从中/d 任意/d 摸出/nz 红球/nz 概率/n &&PRExtractSameSubsetFormula_02
+@数量/n 路口/n 交通/n 信号灯/n 红灯/n @数量/n 绿灯/n @数量/n 黄灯亮/nt @数量/n 抬头/vi 信号灯/n 黄灯/nz 概率/n &&PRExtractSameSubsetFormula_02
+开展/v 文明/n 卫士/nnt 活动/vn 学生会/nis 督查部/nt @数量/n 学生/nnt @数量/n @数量/n 进行/vn 督导/vn 选中/v 两名男学生/nt 概率/n &&PRExtractSameSubsetFormula_01
+透明/a 盒子/n 装有/v @数量/n 大小/n 相同/a 乒乓球/n @数量/n 黄球/nr @数量/n 白球/nr 盒子/n 任意/d 摸出/nz 摸到/v 黄球/nr 概率/n &&PRExtractSameSubsetFormula_01
+火车站/n 显示屏/n 间隔/n @数量/n 显示/v 火车/n 班次/n 信息/n 显示/v 时间/n 持续/vd @数量/n 到达/v 火车站/n 显示屏/n 显示/v 火车/n 班次/n 信息/n 概率/n &&PRExtractSameSubsetFormula_02
+@数量/n 路口/n 汽车/n 直行/nz 左转/nz 右转/nz @数量/n 可能性/n 相同/a 汽车/n 路口/n 右转/nz 概率/n &&@P=(1/u1)^u2
+端午节/t 吃粽子/nz 中华民族/n 习惯/n 今年/t 农历/n @数量/n 月初/t @数量/n 早餐/n 小明/nz 妈妈/n 粽子/nf @数量/n 肉馅/n 粽子/nf @数量/n 豆沙馅/nf 粽子/nf 小明/nz 任意/d 拿出/v 拿到/v 肉馅/n 粽子/nf 概率/n &&PRExtractSameSubsetFormula_02
+@数量/n 路口/n 交通/n 信号灯/n 红灯/n @数量/n 绿灯/n @数量/n 黄灯亮/nt @数量/n 抬头/vi 信号灯/n 黄灯/nz 概率/n &&PRExtractSameSubsetFormula_02
+@数量/n 外观/n 相同/a 产品中有/nt @数量/n 合格/vi 从中/d 任意/d 抽取/v 进行/vn 检测/vn 抽到/nz 合格/vi 产品/n 概率/n &&PRExtractSameSubsetFormula_01
+@数量/n 教师/nnt @数量/n 学生/nnt 分成/vi 小组/nis 安排/v 两地/n 参加/v 社会/n 实践/vn 活动/vn 小组/nis @数量/n 教师/nnt @数量/n 学生/nnt 组成/v 不同/a 安排/v 方案/n 共有/v &&DistributeFormula_01
+超市/nis @数量/n 期间/f 开展/v 有奖销售/n 活动/vn 购物满/n @数量/n 顾客/n 可得/v 奖券/n @数量/n 活动/vn 发放/v 奖券/n @数量/n 摇奖/nz 产生/v 一等奖/n @数量/n 奖金/n @数量/n 二等奖/n @数量/n 奖金/n @数量/n 三等奖/n @数量/n 奖金/n @数量/n 活动/vn 购物满/n @数量/n 三等奖/n 概率/n &&PRExtractSameSubsetFormula_01
+开展/v 文明/n 卫士/nnt 活动/vn 学生会/nis 督查部/nt @数量/n 学生/nnt @数量/n @数量/n 进行/vn 督导/vn 选中/v 两名男学生/nt 概率/n &&PRExtractSameSubsetFormula_01
+@数量/n 人站/ns 合影留念/nz @数量/n 相邻/vi 概率/n &&PRBindFormula_02
+透明/a 袋子/n @数量/n 白球/nr @数量/n 黄球/nr @数量/n 红球/nz 颜色/n 不同/a 完全相同/nz 袋子/n 随意/ad 摸出/nz 白球/nr 概率/n &&PRExtractSameSubsetFormula_02
+@数量/n 外观/n 相同/a 产品中有/nt @数量/n 合格/vi 从中/d 任意/d 抽取/v @数量/n 进行/vn 检测/vn 抽到/nz 合格/vi 产品/n 概率/n &&PRExtractSameSubsetFormula_01
+已知/nz 透明/a 盒子/n 装有/v @数量/n 红球/nz @数量/n 白球/nr 颜色/n 相同/a 任意/d 摸出/nz @数量/n 摸到/v 红球/nz 概率/n &&PRExtractSameSubsetFormula_02
+@数量/n 路口/n 汽车/n 可能/v 直行/nz 可能/v 左转/nz 右转/nz @数量/n 可能性/n 大小/n 相同/a @数量/n 路口/n 汽车/n 左转/nz 右转/nz 概率/n &&@P=(1/u1)^u2
+盒子/n 装有/v @数量/n 红球/nz @数量/n 颜色/n 完全相同/nz 盒子/n 任意/d 摸出/nz 概率/n &&PRExtractSameSubsetFormula_02
+扑克/n @数量/n 黑桃/n 抽出/v 扑克牌/n 一张牌/ns 黑桃/n @数量/n 概率/n &&PRExtractSameSubsetFormula_01
+颜色/n 相同/a @数量/n 红球/nz @数量/n 白球/nr 放入/v 透明/a 足够/v 盒子/n 摇匀/v 摸出/nz 摸出/nz 红球/nz 概率/n &&PRExtractSameSubsetFormula_02
+@数量/n 路口/n 汽车/n 直行/nz 左转/nz 右转/nz @数量/n 可能性/n 相同/a 汽车/n 路口/n 右转/nz 概率/n &&@P=(1/u1)^u2
+中央电视台/nt 今年/t 春季/t 举办/v 青年歌手/nnd 大赛/vn 活动/vn 得奖/v 选手/n 观众/n 发短/v 投票/vi 产生/v 发短信/j 进行/vn 抽奖/vn 活动/vn 短信为一个开奖组/nt 一等奖/n @数量/n 二等奖/n @数量/n 三等奖/n @数量/n 王小林/nr 同学/n 短信/n 二等奖/n 概率/n &&PRExtractSameSubsetFormula_01
+透明/a 袋子/n 装有/v 颜色/n 相同/a @数量/n 红球/nz @数量/n 白球/nr 从中/d 任意/d 摸出/nz 摸出/nz 白球/nr 概率/n &&PRExtractSameSubsetFormula_02
+透明/a 袋子/n 装有/v 黑球/nz 白球/nr 颜色/n 相同/a 从中/d 摸出/nz 记下/v 颜色/n 放回/vf 袋子/n 充分/ad 摇匀/v 摸出/nz 摸到/v 黑球/nz 概率/n &&PRSameChoiceFormula
+自由/a 转动/v 转盘/n 转盘/n 分成/vi @数量/n 大小/n 形状/n 相同/a 扇形/n 颜色/n 分为/v 白色/n @数量/n 指针/n 位置/n 固定/a 转盘/n 自由/a 转动/v 停止/v 指针/n 指向/v 白色/n 扇形/n 概率/n &&PRExtractSameSubsetFormula_0`
+透明/a 口袋/n 装有/v 颜色/n 相同/a @数量/n 白球/nr @数量/n 黄球/nr @数量/n 从中/d 任取/v 黄球/nr 概率/n &&PRExtractNotContainSubsetFormula_03
+课间休息/nz 小亮/nr 小明/nz 一起/s 剪刀/n 石头/n @数量/n 方式/n 游戏/n 小明/nz 剪刀/n 概率/n &&PRExtractSameSubsetFormula_01
+圆形/n 转盘/n 平均分/nz @数量/n 扇形/n 区域/n 投掷/v 飞镖/n 飞镖/n 落在/v 转盘/n 飞镖/n 落在/v 黄色/n 区域/n 概率/n &&PRExtractSameSubsetFormula_01
+元旦晚会/nz @数量/n 年级/n @数量/n @数量/n 同学/n @数量/n 老师/nnt 型号/n 新年/t 贺卡/n 放进/v 纸箱/n 充分/ad 摇匀/v 纸箱/n 任意/d 摸出/nz 贺卡/n 老师/nnt 贺卡/n 概率/n &&PRExtractSameSubsetFormula_02
+小明/nz 小慧/nz 小颖/nz @数量/n 人中/n 选取/v @数量/n 参加/v 学校组织/nt 敬老/v 活动/vn 小明/nz 选中/v 概率/n &&PRExtractSameSubsetFormula_02
+均匀/a 硬币/n 连续/a 抛掷/v 概率/n &&@P=C(u1,u2)*(1/2)^u2*(1/2)^(u1-u2)
+@数量/n 路口/n 交通/n 信号灯/n 红灯/n @数量/n 绿灯/n @数量/n 黄灯亮/nt @数量/n 抬头/vi 信号灯/n 黄灯/nz 概率/n &&PRExtractSameSubsetFormula_02
+闭合/vn 开关/n @集合/n 中的/v 灯泡/n 发光/vi 概率/n &&PRExtractSameSubsetFormula_02
+未曾/d 启封/vn 扑克牌/n 取出/v @数量/n 红桃/nz @数量/n 黑桃/n @数量/n @数量/n 张牌/ns 任取/v 黑桃/n 概率/n &&PRExtractSameSubsetFormula_01
+透明/a 袋子/n @数量/n 白球/nr @数量/n 黄球/nr @数量/n 红球/nz 颜色/n 不同/a 完全相同/nz 袋子/n 随意/ad 摸出/nz 白球/nr 概率/n &&PRExtractSameSubsetFormula_02
+电视台/nis 今年/t 春季/t 举办/v 青年/n 歌手/nnt 大奖赛/n 活动/vn 得奖/v 选手/n 观众/n 发短信/j 投票/vi 产生/v 发短信/j 进行/vn 抽奖/vn 活动/vn @数量/n 短信为一个开奖组/nt 一等奖/n @数量/n 二等奖/n @数量/n 三等奖/n @数量/n 王小林/nr 同学/n 短信/n 三等奖/n 概率/n &&PRExtractSameSubsetFormula_01
+袋子/n 装有/v @数量/n 红球/nz @数量/n 黑球/nz 颜色/n 相同/a 袋子/n 摸出/nz 红球/nz 概率/n &&PRExtractSameSubsetFormula_02
+@数量/n 世界/n 合唱/vn 比赛/vn 活动/vn 细则/n 参赛/vn 合唱团/nis 比赛/vn 时须/nr 演唱/v @数量/n 首歌曲/nz 爱乐合唱团/nt 已确定/nz @数量/n 首歌曲/nz @实体/n 首歌曲/nz 确定/v @实体/n 首歌曲/nz 确定/v 确定/v @实体/n 参赛/vn 歌曲/n 概率/n &&@P=C(u_1,u_2)*C(u_1,u_2)/C(u_3,u_2)C(u_3,u_2)
+透明/a 布袋中/nrf 装有/v @数量/n 白球/nr @数量/n 红球/nz 颜色/n 不同/a 相同/a 从中/d 摸出/nz 摸到/v 红球/nz 概率/n &&PRExtractSameSubsetFormula_02
+小军/nz 旅行箱/nz 密码/n @数量/n 位数/n 忘记/v 密码/n 末位/nz 数字/n 小军/nz 打开/v 旅行箱/nz 概率/n &&PRExtractSameSubsetFormula_02
+转盘/n 分成/vi 扇形/n 区域/n 红色/n 区域/n 白色/n 区域/n 面积/n 比为/d @集合/n 转动/v 指针/n 白色/n 区域/n 概率/n &&@P=u1/(u1+u2)
+透明/a 袋中/s 装有/v @数量/n 红球/nz @数量/n 蓝球/nz 颜色/n 相同/a 袋中/s 摸出/nz 颜色/n 概率/n &&@P=C(u1,u2)*C(u3,u4)/C(u1+u3,u_2+u4)
+@数量/n 路口/n 汽车/n 可能/v 直行/nz 可能/v 左转/nz 右转/nz @数量/n 可能性/n 大小/n 相同/a @数量/n 路口/n 汽车/n 左转/nz 右转/nz 概率/n &&@P=(1/u1)^u2
+已知高速公路上有/nt @实体/n 出口/vn @实体/n 之间/f 路程/n @实体/n @实体/n 路程/n @实体/n 决定/v @实体/n 之间/f 任意/d 增设/v 服务区/nz 服务区/nz 设在/v @实体/n 之间/f 概率/n &&@P=u1/(u1+u2)
+@数量/n 年级/n @数量/n 抽取/v @数量/n 年级/n @数量/n 进行/vn 拔河比赛/nz 抽到/nz @数量/n 年级/n @数量/n 概率/n &&PRExtractSameSubsetFormula_01
+小亮/nr @数量/n 同学/n 参加/v 百米赛跑/nz 赛场/n @集合/n 跑道/n 选手/n 抽签/vi 形式/n 确定/v 跑道/n 小亮/nr 抽签/vi 小亮/nr 抽到/nz @数量/n 跑道/n 概率/n &&PRExtractSameSubsetFormula_01
+@数量/n @集合/n 编号/n 嘉嘉/nz 可任意/n 同坐/nz @数量/n 概率/n &&PRSameChoiceFormula
+透明/a 盒子/n @数量/n 白球/nr 黄球/nr 颜色/n 不同/a 相同/a 摸出/nz 黄球/nr 概率/n @数量/n 黄球/nr &&@N=u1*p1
+布袋/n 装有/v @数量/n 黑球/nz @数量/n 白球/nr 颜色/n 相同/a 摸出/nz 放回/vf 搅匀/vi 摸出/nz 摸出/nz 黑球/nz 概率/n &&PRSameChoiceFormula
+@数量/n 路口/n 汽车/n 可能/v 直行/nz 可能/v 左转/nz 右转/nz @数量/n 可能性/n 大小/n 相同/a @数量/n 路口/n 汽车/n 左转/nz 右转/nz 概率/n &&@P=(1/u1)^u2
+透明/a 袋子/n 装有/v 黑球/nz 白球/nr 小球/n 颜色/n 差别/n 袋子/n 摸出/nz 小球/n 放回/vf 摇匀/v 摸出/nz 小球/n 摸出/nz 小球/n 白球/nr 概率/n &&PRSameChoiceFormula
+透明/a 袋子/n 装有/v 颜色/n 相同/a @数量/n 红球/nz @数量/n 白球/nr @数量/n 摸出/nz 概率/n &&PRExtractSameSubsetFormula_02
+乙等/nz @数量/n 同学/n 任选/v @数量/n 参加/v 活动/vn 所选/v @数量/n 概率/n &&@P=C(u1-2,u2-1)/C(u1,u2)
+@实体/n 不同/a 元件/n 连接/v 系统/n @实体/n 正常/a 工作/vn 至少/d 正常/a 工作/vn 系统/n 正常/a 工作/vn 已知/nz @实体/n 正常/a 工作/vn 概率/n 依次/d @集合/n 系统/n 正常/a 工作/vn 概率/n &&@P=u1*(u2+u3)
+@数量/n 饮料/nf @数量/n 保质期/n @数量/n 饮料/nf 任取/v @数量/n 少取/nr 保质期/n 概率/n &&@P=1-C(u1-u2,u3)/C(u1,u3)
+@数量/n 兴趣小组/nz 同学/n 参加/v 小组/nis 同学/n 参加/v 小组/nis 可能性/n 相同/a 同学/n 参加/v 兴趣小组/nz 概率/n &&PRChoiceSameFormula
+美化环境/j @数量/n 颜色/n 花中/nr 任选/v @数量/n 种花/vi 花坛/n 余下/v @数量/n 种花/vi 花坛/n 红色/n 紫色/n 不在/v 花坛/n 概率/n &&PRChoiceDiffFormula
+路口/n 人行横道/n 信号灯/n 红灯/n 绿灯/n 交替/d 出现/v 红灯/n 持续时间/nz @数量/n 行人/n 来到/v 路口/n 遇到/v 红灯/n 至少/d 需要/v 等待/v @数量/n 出现/v 绿灯/n 概率/n &&@P=u1/u2
+打开/v 计算机/n 忘记/v 开机/vi 密码/n 记得/v @实体/n 字母/n 中的/v @数量/n @集合/n 数字/n 中的/v 小敏/nr 输入/v 密码/n 能够/v 成功/a 开机/vi 概率/n &&@P=C(u1,u2)*C(u3,u4)/C(u1+u3,u_2+u4)
+食堂/n 规定/n 午餐/n @数量/n 水果/n 任选/v 同学/n 所选/v 水果/n 相同/a 概率/n &&PRSameChoiceFormula
+下棋/vi 成和棋/nr 概率/n @数量/n 获胜/vi 概率/n @数量/n 概率/n &&@P=u1+u2
+火车站/n 显示屏/n 间隔/n @数量/n 显示/v 火车/n 班次/n 信息/n 显示/v 时间/n 持续/vd @数量/n 到达/v 火车站/n 显示屏/n 显示/v 火车/n 班次/n 信息/n 概率/n &&PRExtractSameSubsetFormula_02
+@数量/n 路口/n 交通/n 信号灯/n 红灯/n @数量/n 绿灯/n @数量/n 黄灯亮/nt @数量/n 抬头/vi 信号灯/n 黄灯/nz 概率/n &&PRExtractSameSubsetFormula_02
+袋子/n 装有/v @数量/n 颜色/n 完全相同/nz 摸到/v 红球/nz 概率/n @数量/n 红球/nz &&PRExtractSameSubsetFormula_01
+同学/n 遇到/v 一道/d 不会/v 选择题/n @数量/n 选项/n 正确/a 选对/v 概率/n &&PRExtractSameSubsetFormula_01
+@数量/n 背面/f 完全/ad 卡片/n @数量/n 印有/v 天鹅湖/ns 风光/n @数量/n 印有/v 黄河/ns 海口/ns 自然风景/nz @数量/n 印有/v 孙武湖/ns 景色/n 卡片/n 背面/f 搅匀/vi 从中/d 抽出/v 卡片/n 抽到/nz 天鹅湖/ns 风光/n 卡片/n 概率/n &&PRExtractSameSubsetFormula_01
+端午/t 节前/f 妈妈/n 超市/nis 买了/v 大小/n 质量/n 包装/n 相同/a 粽子/nf @数量/n 火腿/nf 粽子/nf @数量/n 豆沙/n 粽子/nf @数量/n 小明/nz 任取/v @数量/n 火腿/nf 粽子/nf 概率/n &&PRExtractSameSubsetFormula_01
+已知/nz 布袋/n 装有/v @数量/n 红球/nz @数量/n 白球/nr @实体/n 黄球/nr 颜色/n 相同/a 布袋/n 任意/d 摸出/nz @数量/n 红球/nz 概率/n @数量/n @实体/n 等于/v &&@N=C(u1,1)/p1-u1-u2
+透明/a 盒子/n 放有/v @数量/n 白色/n 乒乓球/n @数量/n 黄色/n 乒乓球/n 乒乓球/n 颜色/n 完全相同/nz 从中/d 摸出/nz @数量/n 乒乓球/n 摸出/nz 黄色/n 乒乓球/n 概率/n &&PRExtractSameSubsetFormula_01
+透明/a 袋子/n 装有/v 颜色/n 相同/a @数量/n 红球/nz @数量/n 白球/nr 从中/d 任意/d 摸出/nz 摸出/nz 白球/nr 概率/n &&PRExtractSameSubsetFormula_01
+透明/a 袋子/n 装有/v 颜色/n 不同/a @数量/n 红球/nz @数量/n 白球/nr 依次/d 袋子/n 摸出/nz 小球/n 放回/vf 摸到/v 红球/nz @数量/n 个人/n 摸到/v 白球/nr 概率/n &&@P=(C(u1,1)/C(u1+u2,1))*(C(u2,1)/C(u1+u2-1))
+一个有/nt @数量/n 小镇/n 调查/vn @数量/n @数量/n 中央电视台/nt 早间/t 新闻/n 随便/ad 早间/t 新闻/n 概率/n 大约/d &&PRExtractSameSubsetFormula_01
+透明/a 盒子/n @数量/n 红球/nz @实体/n 白球/nr 颜色/n 完全相同/nz 摇匀/v 摸出/nz 摸到/v 红球/nz 概率/n @数量/n @实体/n &&@N=C(u1,1)/p1-u1
+任意/d 抛掷/v 硬币/n 至少/d 概率/n &&@P=∑(k=u2>u1)C(u1,k)*(p1)^k*(1-p1)^(u1-k)
+小亮/nr @数量/n 同学/n 参加/v 百米赛跑/nz 赛场/n @集合/n 跑道/n 选手/n 抽签/vi 形式/n 确定/v 跑道/n 小亮/nr 抽签/vi 小亮/nr 抽到/nz @数量/n 跑道/n 概率/n &&PRExtractSameSubsetFormula_01
+开展/v 文明/n 卫士/nnt 活动/vn 学生会/nis 督查部/nt @数量/n 学生/nnt @数量/n @实体/n 进行/vn 督导/vn 选中/v 两名男学生/nt 概率/n &&PRExtractSameSubsetFormula_02
+透明/a 盒子/n 装有/v @数量/n 白球/nr 黄球/nr 颜色/n 不同/a 相同/a 摸出/nz 白球/nr 概率/n @数量/n 黄球/nr &&@N=C(u1,1)/p1-u1
+数学试卷/nz 选择题/n @数量/n 单项/n 选择题/n 小明/nz 某道/ns 选择题/n 完全/ad 不会/v 只能靠/v 猜测/v 获得/v 小明/nz 答对/vi 概率/n &&PRExtractSameSubsetFormula_01
+共有/v @数量/n 同学/n @数量/n 同学/n 习惯/n 左手/n 写字/vi 同学/n 习惯/n 右手/n 写字/vi 老师/nnt @数量/n 同学/n 解答/v 问题/n 习惯/n 左手/n 写字/vi 同学/n 选中/v 概率/n &&PRExtractSameSubsetFormula_01
+透明/a 盒子/n @数量/n 白球/nr 黄球/nr 颜色/n 不同/a 相同/a 摸出/nz 黄球/nr 概率/n @数量/n 黄球/nr 个数/n &&@N=u1/(1-p1)-u1
+书架上/n @数量/n 小说/n @数量/n 散文/n 从中/d 抽取/v @数量/n 小说/n 概率/n &&PRExtractSameSubsetFormula_02
+透明/a 盒子/n @数量/n 白球/nr 黄球/nr 颜色/n 不同/a 相同/a 摸出/nz 黄球/nr 概率/n @数量/n 黄球/nr 个数/n &&@N=u1/(1-p1)-u1
+现有/v 男生/n 女生/n 排成一列/l 刚好/d 男女/n 相间/v 概率/n 等于/v @表达式/n &&@P=2*A(u1,u1)*A(u2,u2)/A(u1+u2,u1+u2)
+透明/a 口袋/n 装有/v 颜色/n 不同/a 相同/a 已知/nz 口袋/n 装有/v @数量/n 红球/nz 摸到/v 红球/nz 概率/n @数量/n 口袋/n 总数/n &&@N=C(u1,1)/p1
+@数量/n 零件/n @数量/n 合格/vi 从中/d 任意/d 抽取/v @数量/n 合格品/n 概率/n &&@P=C(u1-u2,u3)/C(u1,u3)
+布袋/n 装有/v 颜色/n 不同/a @数量/n @数量/n 红球/nz @数量/n 白球/nr 从中/d 任意/d 摸出/nz @数量/n 记下/v 颜色/n 放回/vf 搅匀/vi 任意/d 摸出/nz @数量/n 摸出/nz @数量/n 红球/nz 概率/n &&@(C(u2,1)/C(u1+u2+u3,1))^u4
+布袋中/nrf 装有/v @数量/n 红球/nz @数量/n 白球/nr @数量/n 黑球/nz 颜色/n 相同/a 袋中/s 任意/d 摸出/nz 白球/nr 概率/n &&PRExtractSameSubsetFormula_02
+透明/a 布袋中/nrf 放有/v @数量/n 白球/nr @数量/n 红球/nz 颜色/n 完全相同/nz 从中/d @数量/n 摸到/v 红球/nz 概率/n &&PRExtractSameSubsetFormula_02
+透明/a 口袋/n 装有/v 红球/nz @数量/n 黄球/nr @数量/n @数量/n 颜色/n 区别/n 从中/d 任意/d 摸出/nz 摸到/v 概率/n &&PRExtractSameSubsetFormula_02
+透明/a 口袋/n 装有/v 红球/nz @数量/n 黄球/nr @数量/n @数量/n 颜色/n 区别/n 从中/d 任意/d 摸出/nz 摸到/v 概率/n @数量/n 需要/v 口袋/n 放入/v &&@N=(u1+u2)/(1-p1)-u1-u2-u3
+透明/a 袋中/s @数量/n 红球/nz @数量/n 黄球/nr 颜色/n 区别/n 袋中/s 摸出/nz @数量/n 小球/n 黄球/nr 红球/nz 概率/n &&@P=C(u1,u2)*C(u3,u4)/C(u1+u2,u3+u4)
+透明/a 布袋中/nrf 装有/v @数量/n 白球/nr @实体/n 黄球/nr 颜色/n 不同/a 相同/a 摸出/nz 摸到/v 黄球/nr 概率/n @数量/n @表达式/n &&@N=u1/(1-p1)-u1
+小明/nz 小慧/nz 小颖/nz @数量/n 人中/n 选取/v @数量/n 参加/v 学校组织/nt 敬老/v 活动/vn 小明/nz 选中/v 概率/n &&PRExtractSameSubsetFormula_01
+重复/vn 试验/vn 抛掷/v 啤酒/nf 瓶盖/n @数量/n 统计/vn 凸面/n 向上/vi 频率/n @集合/n 估计/v 抛掷/v 啤酒/nf 瓶盖/n 出现/v 凹面/n 向上/vi 概率/n &&@P=1-p1
+任意/d 均匀/a 硬币/n 面朝/nz 概率/n &&@P=C(u1,u2)*(1/2)^u2*(1/2)^(u1-u2)
+中央电视台/nt 幸运/a @数量/n 栏目/n 中的/v 百宝箱/n 互动/vn 环节/n 竞猜/vn 游戏/n 游戏规则/nz @数量/n 商标/n @数量/n 标牌/n 背面/f 注明/v 奖金额/n 标牌/n 背面/f 哭脸/nz 翻到/v 哭脸/nz 得奖/v 参与/v 游戏/n 观众/n @数量/n 翻牌/nz 机会/n 观众/n 翻牌/nz 获得/v 奖金/n @数量/n 翻牌/nz 获奖/vn 概率/n &&@P=C(u1-u2,1)/C(u3-u2,1)
+@数量/n @数量/n 学生中有/nt @数量/n 团员/nnt 积极/ad 报名/vi 参加/v 学校/nis 开展/v 文明/n 劝导/v 活动/vn 要求/n 该班/nz 团员/nnt 抽取/v @数量/n 参加/v 该班/nz 团员/nnt 京京/nr 抽到/nz 概率/n &&PRExtractSameSubsetFormula_01
+布袋/n 装有/v @数量/n 颜色/n 不同/a @数量/n 红球/nz @数量/n 白球/nr 布袋/n 任意/d 摸出/nz 摸出/nz 红球/nz 概率/n &&PRExtractSameSubsetFormula_02
+支援/v 云南/ns 地震/n 灾区/n 小慧/nz 准备/v 爱心/n 热线/n 捐款/vi 记得/v 号码/n @数量/n @数量/n @集合/n @数量/n 数字/n 组成/v 具体/a 顺序/n 忘记/v 拨通/v 电话/n 概率/n &&@P=A(u1,u1)/A(u2,u2)
+接种/v 疫苗/n 出现/v 发热/vn 反应/vn 概率/n @集合/n 现有/v @数量/n 接种/vn 疫苗/n 至少/d @数量/n 出现/v 发热/vi 反应/vn 概率/n &&@P=∑(k=u2>u1)C(u1,k)*(p1)^k*(1-p1)^(u1-k)
+圆形/n 转盘/n 平均分/nz @数量/n 扇形/n 区域/n 投掷/v 飞镖/n 飞镖/n 落在/v 转盘/n 飞镖/n 落在/v 黄色/n 区域/n 概率/n &&PRExtractSameSubsetFormula_01
+决定/v 男生/n @数量/n 女生/n 选出/v 同学/n 兰州/ns 国际/n 马拉松赛/nz 志愿者/nnt 选出/v 一男一女/l 概率/n &&@P=C(u1,u2)*C(u3,u4)/C(u1+u2,u3+u4)
+灯泡/n 通电/vi 发光/vi 概率/n @集合/n 合上/v 关时/nr 至少/d 灯泡/n 发光/vi 概率/n &&@P=∑(k=u2>u1)C(u1,k)*(p1)^k*(1-p1)^(u1-k)
+@数量/n 外观/n 相同/a 产品/n @数量/n 合格/vi 产品/n 从中/d 任意/d 抽取/v @数量/n 进行/vn 检测/vn 抽到/nz 合格/vi 产品/n 概率/n &&PRExtractSameSubsetFormula_01
+小洋/nz 转盘/n 活动/vn 得知/v 获得/v @数量/n 代金券/nz 概率/n @数量/n 获得/v @数量/n 代金券/nz 概率/n @数量/n 获得/v @数量/n 代金券/nz 概率/n @数量/n 面额/n 代金券/nz 转动/v 转盘/n 获得/v 代金券/nz 金额/n 平均数/n &&@N=u1*p1+u2*p2+u3*p3
+@数量/n 好朋友/nz 合影/vi 甲站/ns 中间/f 概率/n &&@P=A(u1-1,u1-1)/A(u1,u1)
+端午节/t 吃粽子/nz 中华民族/n 传统习俗/nz 妈妈/n 买了/v @数量/n 红豆/n @数量/n 碱水/n @数量/n 肉粽/nf 粽子/nf 内部/f 馅料/n 不同/a 相同/a 小颖/nz 随意/ad @数量/n 吃到/v 红豆/n 概率/n &&PRExtractSameSubsetFormula_02
+口袋/n @数量/n 完全相同/nz 小球/n 标号/n 摸出/nz 小球/n 记录/v 放回/vf 摸出/nz 小球/n 摸出/nz 标号/n 相同/a 概率/n &&PRSameChoiceFormula
+湘潭是我家/nt 爱护/v 开展/v 整治/vn @数量/n 行动/vn 学生/nnt 更加/d 自觉遵守/ns 交通规则/nz 学生/nnt 小明/nz 自行车/n 上学时/n @数量/n 路口/n @数量/n 路口/n @数量/n 交通/n 信号灯/n 路口/n 遇到/v 红灯/n 概率/n @数量/n 遇到/v 黄灯/nz 概率/n @数量/n 遇到/v 绿灯/n 概率/n &&@P=1-p1-p2
+校学生会/nt 提倡/v 双休日/t 养老院/nis 参加/v 服务/vn 活动/vn 活动/vn 需要/v @数量/n 同学/n 参加/v 现有/v 包括/v 小杰/nz @数量/n 同学/n 报名/vi 学生会/nis @数量/n 同学/n 抽取/v @数量/n 小杰/nz 抽到/nz 参加/v 活动/vn 概率/n &&@P=C(u1-1,u2-1)/C(u1,u2)
+抽屉/n 颜色/n 袜子/n @数量/n 看不见/v 情况下/nz 摸出/nz 袜子/n 概率/n &&PRDistributeFormula_07
+透明/a 盒子/n 装有/v @数量/n 红球/nz @数量/n 黄球/nr @数量/n 颜色/n 差别/n 从中/d 摸出/nz 小球/n 黄球/nr 概率/n &&PRExtractSameSubsetFormula_02
+透明/a 袋子/n 装有/v @数量/n @数量/n 红球/nz @数量/n @数量/n 蓝球/nz 颜色/n 差别/n 袋子/n 取出/v @数量/n 红球/nz 概率/n &&PRExtractSameSubsetFormula_02
+透明/a 盒子/n @数量/n 白球/nr 黄球/nr 颜色/n 不同/a 相同/a 摸出/nz 白球/nr 概率/n @数量/n 黄球/nr &&@N=u1/(1-p1)-u1
+小芳/nz 小明/nz 一起/s 游戏/n 需要/v 确定/v 游戏/n 先后顺序/i 约定/v 锤子/n 剪刀/n 方式/n 确定/v 请问/v 回合/n @数量/n 个人/n 都出/nr 概率/n &&@P=(1/3)^u1
+@数量/n 饮料/nf @数量/n 保质期/n @数量/n 饮料/nf 任取/v @数量/n 少取/nr @数量/n 保质期/n 饮料/nf 概率/n &&@P=1-C(u1-u2,u3)/C(u1,u3)
+甲乙/nz 一起/s @数量/n 西安/ns 世园会/nz 约定/v 独立/a @数量/n @数量/n 景点/n 任选/v @数量/n 进行/vn 游览/v 景点/n 参观/v @数量/n 小时/n 最后/f 小时/n 同在/v 景点/n 概率/n &&@P=u1*A(u1-1,u2-1)*A(u1-u2,u2-1)/A(u1,u2)
+抽取/v @数量/n 同学/n 至少/d @数量/n 同学/n 一月/t @数量/n 出生/vi 概率/n &&PRSameChoiceFormula
+装有/v @数量/n 红球/nz @数量/n 白球/nr 袋中/s 任取/v @数量/n 所取/v @数量/n 至少/d @数量/n 白球/nr 概率/n &&PRClassifyFormula_03
+某大学/nz 了解/v 本科生/nnt 参加/v 社会/n 实践/vn 活动/vn 意向/n 采用/v 分层抽样/gm 方法/n @数量/n 年级/n 本科生/nnt 抽取/v 容量/n @数量/n 样本/n 进行/vn 调查/vn 已知/nz 年级/n @数量/n 年级/n @数量/n 年级/n @数量/n 年级/n 本科生/nnt 人数/n 之比/ns @集合/n 应从/v 年级/n 本科生/nnt 抽取/v 学生/nnt &&StratifiedSampleFormula_3
+病人/n 服用/v 治愈/v 概率/n @集合/n 服用/v 新药/n @数量/n 病人/n 至少/d @数量/n 治愈/v 概率/n &&@P=∑(k=u2>u1)C(u1,k)*(p1)^k*(1-p1)^(u1-k)
+盒子/n 大小/n 相同/a @数量/n 白球/nr @数量/n 黑球/nz 摸出/nz 颜色/n 不同/a 概率/n &&@P=C(u1,1)*C(u2,1)/C(u1+u2,2)
+实习生/nnt 加工/vn 零件/n 加工/v 一等品/n 概率/n 分别为/v @数量/n @数量/n 零件/n 是否/v 加工/vn 一等品/n 相互/d 独立/a 零件/n 一等品/n 概率/n &&@P=p1*(1-p2)+p2*(1-p1)
+学校/nis 高一/n @集合/n @数量/n 年级/n 学生/nnt 人数/n 之比/ns @集合/n 现用/n 分层抽样/gm 方法/n 高中/nis @数量/n 年级/n 学生/nnt 抽取/v 容量/n @数量/n 样本/n 应从高/nr @数量/n 年级/n 抽取/v 学生/nnt &&StratifiedSampleFormula_3
+交通管理/nz 部门/n 了解/v 机动车/n 驾驶员/nnt 法规/n 知晓/vn 情况/n @数量/n 社区/n 分层/v 抽样调查/vl 假设/n @数量/n 社区/n 驾驶员/nnt 总人数/nz @实体/n 社区有/nt 驾驶员/nnt @数量/n @数量/n 社区/n 抽取/v 驾驶员/nnt 人数/n 分别为/v @集合/n @数量/n 社区/n 驾驶员/nnt 总人数/nz @实体/n &&@(u1+u2+u3+u4)/N=u1/u5
+某大学/nz 了解/v 本科生/nnt 参加/v 社会/n 实践/vn 活动/vn 意向/n 采用/v 分层抽样/gm 方法/n @数量/n 年级/n 本科生/nnt 抽取/v 容量/n @数量/n 样本/n 进行/vn 调查/vn 已知/nz 年级/n @数量/n 年级/n @数量/n 年级/n @数量/n 年级/n 本科生/nnt 人数/n 之比/ns @集合/n 应从/v 年级/n 本科生/nnt 抽取/v 学生/nnt &&StratifiedSampleFormula_3
+@数量/n 张奖/nr @数量/n 另有/v @数量/n 张无奖/nr 甲乙两人/nt 抽取/v 中奖/vi 概率/n &&PRExtractSameSubsetFormula_01
+@数量/n 参加/v 测试/vn 达标/vi 概率/n @集合/n @数量/n 达标/vi 概率/n &&@P=u1*u2*u3
+袋中/s 装有/v 颜色/n 小球/n 小球/n 颜色/n 完全相同/nz @数量/n 红球/nz @数量/n 白球/nr @数量/n 红球/nz @数量/n 白球/nr 袋中/s 取出/v 取出/v 红球/nz 概率/n &&@P=C(u1,1)*C(u2,1)/(C(u1+u3,1)C(u2+u4,1)))
+运动员/nnt @数量/n 分线/n 投球/vi 命中率/n @数量/n 投球/vi @数量/n 投进/v @数量/n 概率/n &&@P=C(u1,u2)(p1)^u2*(1-p1)^(u1-u2)
+接种/v 疫苗/n 出现/v 发热/vn 反应/vn 概率/n @集合/n 现有/v @数量/n 接种/vn 疫苗/n 至少/d @数量/n 出现/v 发热/vi 反应/vn 概率/n &&@P=∑(k=u2>u1)C(u1,k)*(p1)^k*(1-p1)^(u1-k)
+袋中/s @数量/n 红色/n @数量/n 蓝色/n @数量/n 白色/n @数量/n 黄色/n @数量/n 从中/d 抽取/v @数量/n 作成/v 样本/n 抽取/v 篮球/n 个数/n &&StratifiedSampleFormula_3
+@数量/n 奖券/n @数量/n 张有奖/nr @数量/n 个人/n 购买/v 至少/d @数量/n 中奖/vi 概率/n &&PRExtractContainSubsetFormula_01
